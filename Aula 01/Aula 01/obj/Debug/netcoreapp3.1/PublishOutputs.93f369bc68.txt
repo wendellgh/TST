@@ -1,0 +1,5 @@
+D:\GDriver\Wendell_Devs\C#\Aula 01\Aula 01\bin\Debug\netcoreapp3.1\publish\Aula 01.exe
+D:\GDriver\Wendell_Devs\C#\Aula 01\Aula 01\bin\Debug\netcoreapp3.1\publish\Aula 01.dll
+D:\GDriver\Wendell_Devs\C#\Aula 01\Aula 01\bin\Debug\netcoreapp3.1\publish\Aula 01.deps.json
+D:\GDriver\Wendell_Devs\C#\Aula 01\Aula 01\bin\Debug\netcoreapp3.1\publish\Aula 01.runtimeconfig.json
+D:\GDriver\Wendell_Devs\C#\Aula 01\Aula 01\bin\Debug\netcoreapp3.1\publish\Aula 01.pdb
